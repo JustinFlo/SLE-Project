@@ -12,7 +12,7 @@ const testimonials = [
         image: "https://randomuser.me/api/portraits",
     },
     {
-        name: 'John Doe2',
+        name: 'Kezia George',
         role: 'Web Developer2',
         content:"All ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget odio",
         image: "https://randomuser.me/api/portraits",

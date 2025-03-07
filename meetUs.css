@@ -93,7 +93,7 @@ h2.title::after{
 
 .column:nth-child(3) .testimonials{
     animation-name: scrollUp;
-    animation-duration: 30s;
+    animation-duration: 34s;
 }
 
 @keyframes scrollUp{
