@@ -1,3 +1,4 @@
+//for index.html
 const faqs = document.querySelectorAll('.faq');
 
 faqs.forEach((faq) => {
@@ -41,3 +42,5 @@ function getTime(){
 setInterval(function(){
   getTime();
 })
+
+
