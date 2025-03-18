@@ -1,14 +1,14 @@
 const testimonials = [
     {
-        name: 'John Doe',
-        role: 'Web Developer',
-        content:"This ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget odio",
+        name: 'Sofia Russo',
+        role: 'Secretary',
+        content:"I’ve had an amazing experience in TSA collaborating with my peers and problem-solving!",
         image: "https://randomuser.me/api/portraits",
     },
     {
-        name: 'John Doe1',
-        role: 'Web Developer1',
-        content:"Should ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget odio",
+        name: 'Kenny Sandoval-Sanchez',
+        role: 'Historian',
+        content:"TSA has allowed me to explore my creativity alongside a motivated set of individuals!",
         image: "https://randomuser.me/api/portraits",
     },
     {
