@@ -16,7 +16,7 @@ $(document).ready(function () {
     });
 });
 
-var targetDate = new Date('May 4, 2025 09:00:00').getTime();
+var targetDate = new Date('May 3, 2025 09:00:00').getTime();
 
 function getTime(){
   var current = new Date().getTime();
