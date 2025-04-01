@@ -6,16 +6,6 @@ faqs.forEach((faq) => {
     faq.classList.toggle('active');
   });
 })
-
-$(document).ready(function () {
-    $(".card").on("mouseover", function () {
-        $(this).nextAll().addClass("prev");
-    });
-    $(".card").on("mouseout", function () {
-        $(this).nextAll().removeClass("prev");
-    });
-});
-
 var targetDate = new Date('May 3, 2025 09:00:00').getTime();
 
 function getTime(){

@@ -13,8 +13,8 @@ const testimonials = [
     },
     {
         name: 'Kezia George',
-        role: 'Web Developer2',
-        content:"All ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget odio",
+        role: 'Leader',
+        content:"I learnt how to work in high pressure situations and how to adapt quickly if things fell through with events last minute. Also, with the new members this year, I was able to work with a new group of people. Seeing how everyone worked together and bring in different ideas was something I loved! I can't wait to go to TCNJ for states and spend more time with everyone!",
         image: "https://randomuser.me/api/portraits",
     },
     {
