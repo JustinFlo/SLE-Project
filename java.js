@@ -6,7 +6,7 @@ faqs.forEach((faq) => {
     faq.classList.toggle('active');
   });
 })
-var targetDate = new Date('May 3, 2025 09:00:00').getTime();
+var targetDate = new Date('May 3, 2026 09:00:00').getTime();
 
 function getTime(){
   var current = new Date().getTime();
