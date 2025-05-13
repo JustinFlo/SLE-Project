@@ -25,7 +25,7 @@ const testimonials = [
     },
     {
         name: 'Alyssa Florio',
-        role: 'Member',
+        role: 'Vice President',
         content:"I started TSA in 8th grade and have competed both at the state and national level. When I was in 8th grade I placed 4th nationally for leadership strategies. As I moved to high school I wanted to continue TSA and competed in Future Technology and Engineering Teacher, placing 2nd at the state level, and in Fashion Design and Technology last year. TSA has taught me invaluable skills and helped me gain a middle school friend group I still love while learning more about the technical world around us.",
         
     },
@@ -43,13 +43,13 @@ const testimonials = [
     },
     {
         name: 'Olusegun Olayinka',
-        role: 'Web Developer7',
+        role: 'Parliamentarian',
         content:"I have learned so much about technology and how to work with others. I have also made some great friends along the way, especially within the council. The best part of TSA was compeiting in Leadership events and working with my peers to create a project.",
         
     },
     {
         name: 'Lauren Soto',
-        role: 'Web Developer8',
+        role: 'Sergeant-At-Arms',
         content:"Being apart of TSA has been one of the best experiences I have had in high school. I have learned so much about technology and getting the opurtunity to work with an amazing council of my friends. The TSA club has done so much for me and I am so grateful to be apart of it. I have learned how to work with others and how to be a leader. ",
         
     },
