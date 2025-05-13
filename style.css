@@ -59,7 +59,7 @@ header{
 .navlist a{
     display: inline-block;
     margin: 0 35px;
-    color: var(--text-color);
+    color: #e989ae;
     font-size: var(--p-font);
     transition: all .6s ease;
 }
@@ -214,6 +214,7 @@ hr{
 .title{
     font-size: 3rem;
     margin: 2rem 0rem;
+    color: #5961d5;
 }
 
 .faq{
@@ -349,7 +350,7 @@ p{
     font-size: 35px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #146bdd;
+    color: #659be1;
     margin: 0 0 5px;
     position: relative;
 }
@@ -364,7 +365,7 @@ p{
     position: absolute;
     height: 2px;
     right: 32%;
-    background-color: #febd01;
+    background-color: #e989ae;
     bottom: 0px;
 }
 
@@ -385,7 +386,7 @@ p{
 }
 
 .portfolio .filter-buttons ul li{
-    color: #1353ca;
+    color: #659be1;
     font-weight: 500;
     font-size: 16px;
     display: inline-block;
